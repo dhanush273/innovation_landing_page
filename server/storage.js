@@ -192,7 +192,7 @@ export const defaultEventData = {
     {
       id: "sp-7",
       name: "Satish Varadharaj",
-      designation: "Team Lead,  Conceptia Konnect",
+      designation: "Team Lead - Enterprise Products, Conceptia Konnect",
       photoUrl: "/people/satish-varadharaj.jpg"
     },
     {
