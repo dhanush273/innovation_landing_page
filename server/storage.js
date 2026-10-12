@@ -180,7 +180,7 @@ export const defaultEventData = {
      {
       id: "sp-5",
       name: "Mahendra H",
-      designation: "Product Manager, Simulation Solutions",
+      designation: "Product Manager - Simulation Solutions, Conceptia KONNECT",
       photoUrl: "/people/mahendra-h.jpg"
     },
     {
